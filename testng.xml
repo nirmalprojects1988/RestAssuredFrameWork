@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.restassured.tests.GetandValidateMultipleJsonResponse"/>
+      <class name="com.restassured.tests.GetandValidateSingleJsonResponse"/>
+      <class name="com.restassured.tests.GetSingleUser"/>
+      <class name="com.restassured.tests.CreateUser"/>
+      <class name="com.restassured.tests.UpdateUser"/>
+      <class name="com.restassured.tests.GetListofUsers"/>
+      <class name="com.restassured.tests.CreateUserUsingPojo"/>
+      <class name="com.restassured.tests.ValidateResponseBody"/>
+       <class name="com.restassured.tests.CreateUserUsingDataDriven"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
