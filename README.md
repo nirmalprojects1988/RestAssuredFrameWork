@@ -22,6 +22,6 @@ You can also run individual test opening src/test/java.
 
 ****************************************************************************
 
-I have used dummy api which is you will find here https://reqres.in/
+I have used dummy api which is https://reqres.in/
 ****************************************************************************
 Please feel to report any issue or PR for any improvements. Reach me at nirmal.chakraborty21@outlook.com
