@@ -5,7 +5,7 @@
 
 ****************************************************************************
 **How the Framework is built?**
-
+I have used dummy api which is https://reqres.in/
 Rest API Automation Framework built using Rest Assured, Java, Maven, TestNG, and Extent Reports.
 
 Test-Driven Framework
@@ -22,6 +22,4 @@ You can also run individual test opening src/test/java.
 
 ****************************************************************************
 
-I have used dummy api which is https://reqres.in/
-****************************************************************************
 Please feel to report any issue or PR for any improvements. Reach me at nirmal.chakraborty21@outlook.com
